@@ -6,7 +6,6 @@ coverage.out
 *.iml
 *.swp
 *.log
-tags
 profile.coverprofile
 explain_test
 cmd/explaintest/explain-test.out
@@ -14,7 +13,6 @@ cmd/explaintest/explaintest_tidb-server
 cmd/explaintest/portgenerator
 *.fail.go
 tools/bin/
-vendor
 /_tools/
 .DS_Store
 .vscode
